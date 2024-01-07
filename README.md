@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm shrikant kumar</h1>
-<img src="https://iconscout.com/lottie-animation/web-development-3574955"> 
+<video loading="lazy" muted="muted" src="https://cdnl.iconscout.com/lottie/premium/thumb/web-development-6113556-5044215.mp4" type="video/mp4" autoplay="autoplay" loop="loop"></video>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **web development**
