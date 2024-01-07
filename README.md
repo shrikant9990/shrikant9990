@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm shrikant kumar</h1>
-<video loading="lazy" muted="muted" src="https://cdnl.iconscout.com/lottie/premium/thumb/web-development-6113556-5044215.mp4" type="video/mp4" autoplay="autoplay" loop="loop"></video>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<img src="">
+<img alt="a computer desk with a monitor, keyboard and mouse on it in front of a blue striped wall" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" elementtiming="closeupImage">
 
 - 🔭 I’m currently working on **web development**
 
